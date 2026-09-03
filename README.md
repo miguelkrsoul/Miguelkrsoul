@@ -9,6 +9,15 @@ Focado em desenvolvimento web, cultura coreana e um dia trabalhar na Coreia do S
 
 ## 🚀 Meus Projetos - AO VIVO
 
+### 🆕 Projeto 4 - Bunpo Gratis 2.0 com Áudio 🔊🇰🇷
+🔗 https://miguelkrsoul.github.io/kr-soul-bunpo/
+
+- Hangul com áudio coreano real (clica pra ouvir 🔊)
+- Frases que uso pra comentar com ela 💬
+- Quiz 8 perguntas
+- Contador Rolim → Seul 2028
+- Status: AO VIVO • LIVE 🟢
+
 ### 🆕 Projeto 3 - Conversor de Won → Real 🇰🇷💱🇧🇷
 **🔗 https://miguelkrsoul.github.io/conversor-won-real/**
 - Conversor de Won coreano para Real brasileiro

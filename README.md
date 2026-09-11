@@ -9,6 +9,11 @@ Focado em desenvolvimento web, cultura coreana e um dia trabalhar na Coreia do S
 
 ## 🚀 Meus Projetos - AO VIVO
 
+##📚 Projeto 5 - Biblioteca KR Soul - NOVO
+https://miguelkrsoul.github.io/meu-portfolio-/
+• CRUD completo + Login ADM
+• Status: AO VIVO • LIVE 🟢
+
 ### 🆕 Projeto 4 - Bunpo Gratis 2.0 com Áudio 🔊🇰🇷
 🔗 https://miguelkrsoul.github.io/kr-soul-bunpo/
 

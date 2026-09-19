@@ -7,7 +7,11 @@ Focado em desenvolvimento web, cultura coreana e um dia trabalhar na Coreia do S
 📍 Rolim de Moura → ✈️ Seoul
 🔗 Meus links: https://linktr.ee/MiguelKrSoul
 
-## 🚀 Meus Projetos - AO VIVO
+## 🚀 Meus Projetos - AO VIVO 
+
+* **Projeto 6 - Conecta RO - NOVO:** [https://miguelkrsoul.github.io/conecta-ro/](https://miguelkrsoul.github.io/conecta-ro/)
+  * Plataforma de vagas e oportunidades locais em Rondônia 🇧🇷
+  * Status: AO VIVO • LIVE 🟢
 
 📚 Projeto 5 - Biblioteca KR Soul - NOVO
 https://miguelkrsoul.github.io/meu-portfolio-/

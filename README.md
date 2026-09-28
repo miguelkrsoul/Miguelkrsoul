@@ -9,9 +9,11 @@ Focado em desenvolvimento web, cultura coreana e um dia trabalhar na Coreia do S
 
 ## 🚀 Meus Projetos - AO VIVO 
 
-* **Projeto 6 - Conecta RO - NOVO:** [https://miguelkrsoul.github.io/conecta-ro/](https://miguelkrsoul.github.io/conecta-ro/)
-  * Plataforma de vagas e oportunidades locais em Rondônia 🇧🇷
-  * Status: AO VIVO • LIVE 🟢
+### 🧮 Projeto 5 - KR Custo Real - Vida em Seul 🇰🇷🇧🇷 - NOVO
+- **Link AO VIVO - LIVE:** https://miguelkrsoul.github.io/seoul-living-cost-calculator/
+- Calculadora de custo de vida em Seul em REAIS (won → real)
+- Moradia, alimentação, transporte, chip 4G
+- Status AO VIVO - LIVE 🟢
 
 📚 Projeto 5 - Biblioteca KR Soul - NOVO
 https://miguelkrsoul.github.io/meu-portfolio-/

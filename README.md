@@ -1,51 +1,40 @@
-# Miguel | KR Soul 🇧🇷🇰🇷
-> Estudante de ADS - Futuro Dev em Seul 2028
+# Miguel | KR Soul BRKR 🇧🇷🇰🇷
 
-Olá! Sou o Miguel de Rolim de Moura, Rondônia → Sonhando com Seul!
-Focado em desenvolvimento web, cultura coreana e um dia trabalhar na Coreia do Sul.
+> ADS Student - Future Dev in Seoul 2028
 
-📍 Rolim de Moura → ✈️ Seoul
-🔗 Meus links: https://linktr.ee/MiguelKrSoul
+Hi! I'm Miguel from Rolim de Moura, Rondônia, Brazil — Dreaming of Seoul! 
+Focused on web development, Korean culture, and one day working in South Korea.
 
-## 🚀 Meus Projetos - AO VIVO 
-
-### 🧮 Projeto 5 - KR Custo Real - Vida em Seul 🇰🇷🇧🇷 - NOVO
-- **Link AO VIVO - LIVE:** https://miguelkrsoul.github.io/seoul-living-cost-calculator/
-- Calculadora de custo de vida em Seul em REAIS (won → real)
-- Moradia, alimentação, transporte, chip 4G
-- Status AO VIVO - LIVE 🟢
-
-📚 Projeto 5 - Biblioteca KR Soul - NOVO
-https://miguelkrsoul.github.io/meu-portfolio-/
-
-• CRUD completo + Login ADM
-• Status: AO VIVO • LIVE 🟢
-
-### 🆕 Projeto 4 - Bunpo Gratis 2.0 com Áudio 🔊🇰🇷
-🔗 https://miguelkrsoul.github.io/kr-soul-bunpo/
-
-- Hangul com áudio coreano real (clica pra ouvir 🔊)
-- Frases que uso pra comentar com ela 💬
-- Quiz 8 perguntas
-- Contador Rolim → Seul 2028
-- Status: AO VIVO • LIVE 🟢
-
-### 🆕 Projeto 3 - Conversor de Won → Real 🇰🇷💱🇧🇷
-**🔗 https://miguelkrsoul.github.io/conversor-won-real/**
-- Conversor de Won coreano para Real brasileiro
-- Design dark coreano com Hangul (원)
-- Exemplos: 라면, 치킨, passagem pra Seul
-- Taxa real atualizada
-- **Status: AO VIVO • LIVE 🟢**
-
-### Projeto 2 - Relógio de Seul 🕐
-- Mostra hora de Seul vs Rolim de Moura em tempo real
-- 12h de diferença
-
-### Projeto 1 - Portfolio
-- Primeiro projeto no GitHub Pages
+📍 Rolim de Moura → ✈️ Seoul 
+🔗 My links: https://linktr.ee/MiguelKrSoul
 
 ---
-💜 Rumo a Seul 2028 - Um commit por dia!
 
-🛠️ **Tech:** HTML, CSS, JavaScript, GitHub Pages
+### 🚀 My Projects - LIVE
+
+#### 📌 Project 6 - Conecta RO - NEW
+- **LIVE:** https://miguelkrsoul.github.io/conecta-ro/
+- Local job and opportunity platform for Rondônia
+- Status: LIVE 🟢
+
+#### 📚 Project 5 - KR Soul Library - NEW
+- **LIVE:** https://miguelkrsoul.github.io/meu-portfolio-/
+- Complete CRUD + Admin Login
+- Status: LIVE 🟢
+
+#### 🗣️ Project 4 - Free Bunpo 2.0 with Audio KR
+- **LIVE:** https://miguelkrsoul.github.io/seoul-bunpo/
+- Hangul with real audio (click to listen) 🔊
+- Sentences with audio + Quiz
+- Rolim → Seoul Cost Calculator
+- Status: LIVE 🟢
+
+#### 💱 Project 3 - Won to Real Converter KR BR
+- **LIVE:** https://miguelkrsoul.github.io/seoul-living-cost-calculator/
+- Real cost of living in Seoul - Calculate in BRL
+- Housing, food, transport, 4G chip
+- Status: LIVE 🟢 - NEW
+
+---
+💻 Tech Stack: JavaScript | HTML | CSS | Git | GitHub Pages | Render
+🎯 Goal: Build a career in tech in Seoul

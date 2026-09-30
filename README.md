@@ -10,13 +10,6 @@ Focused on web development, Korean culture, and one day working in South Korea.
 
 ---
 
-### 🚀 My Projects - LIVE
-
-#### 📌 Project 6 - Conecta RO - NEW
-- **LIVE:** https://miguelkrsoul.github.io/conecta-ro/
-- Local job and opportunity platform for Rondônia
-- Status: LIVE 🟢
-
 #### 📚 Project 5 - KR Soul Library - NEW
 - **LIVE:** https://miguelkrsoul.github.io/meu-portfolio-/
 - Complete CRUD + Admin Login
